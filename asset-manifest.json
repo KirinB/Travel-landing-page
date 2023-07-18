@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Travel-landing-page/static/css/main.b3a831e8.css",
+    "main.js": "/Travel-landing-page/static/js/main.fdf97d62.js",
+    "static/media/plan-5.jpg": "/Travel-landing-page/static/media/plan-5.4dfc99a434ac99970587.jpg",
+    "static/media/slide-4.jpg": "/Travel-landing-page/static/media/slide-4.723a974a9006320be78c.jpg",
+    "static/media/plan-2.jpg": "/Travel-landing-page/static/media/plan-2.f285f1674b27be5546f1.jpg",
+    "static/media/plan-1.jpg": "/Travel-landing-page/static/media/plan-1.cba79c102358acebb4bf.jpg",
+    "static/media/slide-2.jpg": "/Travel-landing-page/static/media/slide-2.0a93c351a7a9330d8b71.jpg",
+    "static/media/header-background.jpg": "/Travel-landing-page/static/media/header-background.858279ac15145b5cece3.jpg",
+    "static/media/plan-3.jpg": "/Travel-landing-page/static/media/plan-3.9b6116a696f8fb1b8753.jpg",
+    "static/media/room-1.jpg": "/Travel-landing-page/static/media/room-1.ce0bc74be4f70acded41.jpg",
+    "static/media/plan-4.jpg": "/Travel-landing-page/static/media/plan-4.23f02251bb0a3c3061f7.jpg",
+    "static/media/slide-3.jpg": "/Travel-landing-page/static/media/slide-3.9c7070b5f732ee0e78b8.jpg",
+    "static/media/room-2.jpg": "/Travel-landing-page/static/media/room-2.237f7711e2687921b6e1.jpg",
+    "static/media/slide-1.jpg": "/Travel-landing-page/static/media/slide-1.f9214d328428fb2c69da.jpg",
+    "static/media/room-3.jpg": "/Travel-landing-page/static/media/room-3.bf7af98cc5999b050562.jpg",
+    "index.html": "/Travel-landing-page/index.html",
+    "main.b3a831e8.css.map": "/Travel-landing-page/static/css/main.b3a831e8.css.map",
+    "main.fdf97d62.js.map": "/Travel-landing-page/static/js/main.fdf97d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a831e8.css",
+    "static/js/main.fdf97d62.js"
+  ]
+}
